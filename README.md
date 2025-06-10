@@ -2,6 +2,8 @@
 
 This repository contains a deep learning-based shape classifier that uses a hybrid **1D Convolutional Neural Network (Conv1D)** followed by an **LSTM** to classify sequential shape data into two categories: **heart** and **circle**. Each sample is a sequence of 2D points representing a contour, and the first digit in the `.csv` file denotes the class label (0 for heart, 1 for circle).
 
+https://github.com/user-attachments/assets/34b89c3f-3a90-4851-9473-e115b1e7e259
+
 ---
 
 ## 📌 Project Overview
