@@ -50,5 +50,7 @@ Each `.csv` file contains a single sample.
 The first value in the file is the **class label** (0 or 1).  
 The remaining values are flattened 2D points:  
 Example:
+
 0, x1, y1, x2, y2, ..., xn, yn
+
 1, x1, y1, x2, y2, ..., xn, yn
